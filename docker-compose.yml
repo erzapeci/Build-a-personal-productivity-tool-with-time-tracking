@@ -1,0 +1,89 @@
+version: '3.8'
+
+services:
+  # =======================
+  # MongoDB Database
+  # =======================
+  mongo:
+    image: mongo
+    container_name: mongo
+    ports:
+      - '27017:27017'
+    volumes:
+      - mongo-data:/data/db
+
+  # =======================
+  # Auth Service
+  # =======================
+  auth-service:
+    build: ./auth-service
+    container_name: auth-service
+    ports:
+      - '5000:5000'
+    environment:
+      - PORT=5000
+      - MONGO_URI=mongodb://mongo:27017/productivityDB
+      - JWT_SECRET=sekretishumefshehur
+    depends_on:
+      - mongo
+
+  # =======================
+  # Task Service
+  # =======================
+  task-service:
+    build: ./task-service
+    container_name: task-service
+    ports:
+      - '5001:5001'
+    environment:
+      - PORT=5001
+      - MONGO_URI=mongodb://mongo:27017/productivityDB
+    depends_on:
+      - mongo
+
+  # =======================
+  # Time Service
+  # =======================
+  time-service:
+    build: ./time-service
+    container_name: time-service
+    ports:
+      - '5002:5002'
+    environment:
+      - PORT=5002
+      - MONGO_URI=mongodb://mongo:27017/productivityDB
+    depends_on:
+      - mongo
+
+  # =======================
+  # Project Service
+  # =======================
+  project-service:
+    build: ./project-service
+    container_name: project-service
+    ports:
+      - '5003:5003'
+    environment:
+      - PORT=5003
+      - MONGO_URI=mongodb://mongo:27017/productivityDB
+    depends_on:
+      - mongo
+
+  # =======================
+  # Frontend React App
+  # =======================
+  frontend:
+    build:
+      context: ./productivity-tracker-frontend
+      dockerfile: Dockerfile
+    container_name: frontend
+    ports:
+      - '3000:3000'
+    depends_on:
+      - auth-service
+      - task-service
+      - time-service
+      - project-service
+
+volumes:
+  mongo-data:
