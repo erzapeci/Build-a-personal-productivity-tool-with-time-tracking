@@ -27,8 +27,13 @@ Sistem modern për menaxhimin e detyrave dhe kohës, ndërtuar mbi arkitekturë 
 | Project Service| 5003   | Menaxhimi i projekteve               |
 | Frontend       | 3000   | Dashboard për përdoruesin            |
 
----
-![Screenshot (574)](https://github.com/user-attachments/assets/5fa719b7-a537-4bc5-b282-5bfd8de074e0)
+---![Screenshot (596)](https://github.com/user-attachments/assets/0ec9fc37-9491-4656-9810-45e25b67f62a)
+![Screenshot (586)](https://github.com/user-attachments/assets/d30ac940-bfc5-4b1e-84e2-49600cbca099)
+![Screenshot (585)](https://github.com/user-attachments/assets/3bfa3da4-6837-4c4a-a680-fcbb4f43b27d)
+![Screenshot (587)](https://github.com/user-attachments/assets/dff7e5d8-0d85-43d7-8de7-d0c229560ad4)
+
+![Scree![Screenshot (597)](https://github.com/user-attachments/assets/13c9310b-d250-43eb-82fa-cb810469c194)
+nshot (574)](https://github.com/user-attachments/assets/5fa719b7-a537-4bc5-b282-5bfd8de074e0)
 
 ## ▶️ Nisja Lokale me Docker
 
