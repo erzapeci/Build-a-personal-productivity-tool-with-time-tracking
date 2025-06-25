@@ -18,7 +18,8 @@ Sistem modern për menaxhimin e detyrave dhe kohës, ndërtuar mbi arkitekturë 
 
 ## 📁 Struktura e Mikroshërbimeve
 
-| Shërbimi       | Porti | Përgjegjës për                        |
+| Shërbimi       | Porti | Përgjegjës për                    ![Screenshot (594)](https://github.com/user-attachments/assets/7123d2d4-cd4e-43af-a77e-814ba7f04a92)
+    |
 |----------------|--------|--------------------------------------|
 | Auth Service   | 5000   | Regjistrim, login, JWT               |
 | Task Service   | 5001   | CRUD për detyra                      |
@@ -146,3 +147,12 @@ JWT_SECRET=sekretishumefshehur
 ![Screens![Scre![Screenshot (595)](https://github.com/user-attachments/assets/045cddee-6fba-48cf-99ec-ed910e253d34)
 enshot (596)](https://github.com/user-attachments/assets/84e88c44-26e3-4ed9-beae-39e6ed330dda)
 hot (597)](https://github.com/user-attachments/assets/1cf1e024-bb35-432b-9549-4b1d1d34b5f1)
+![Screenshot (593)](https://github.com/user-attachments/assets/eac7ca31-a151-4d95-be21-c4b44b1492d9)
+![Screenshot (592)](https://github.com/user-attachments/assets/229bcba5-1a9b-4657-8456-5187413315dd)![Screenshot (591)](https://github.com/user-attachments/assets/aa3735b3-ff3b-4f99-adf4-28acddf2b659)
+
+![Screenshot (590)](https://github.com/user-attachments/assets/e7ceb772-9125-4b46-8cf1-e6ca3f926293)
+![Screenshot (589)](https://github.com/user-attachments/assets/cae4607e-d8aa-4f31-8812-dfcf5!![Screenshot (585)](https://github.com/user-attachments/assets/e65a432b-c986-485a-9c09-1fbae7a4b47e)
+[Screenshot (586)](https://github.com/user-attachments/assets/f6fe9e7e-a918-4ab9-a256-4e8c79a5d94f)
+cedf9a2![Screenshot (587)](https://github.com/user-attachments/assets/99255994-141a-4e3b-a57e-f927443fbb8b)
+)
+![Screenshot (588)](https://github.com/user-attachments/assets/d64cd482-6b37-4e93-a5a9-6f5edad9cd5e)
