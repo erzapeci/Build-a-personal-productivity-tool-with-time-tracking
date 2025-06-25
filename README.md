@@ -130,8 +130,13 @@ JWT_SECRET=sekretishumefshehur
 
 ## 🧭 Screenshots dhe Demo
 ![Uploading ![Screenshot (579)](https://github.com/user-attachments/assets![![Screenshot (584)](https://github.com/user-attachments/assets/f78edafd-1d88-4f48-abb1-df18270f80e7)
+
 Screenshot (583)](https://github.com/user-attachments/assets/756f6836-7022-4699-ad99-f8de840755bc)
+
 /5f16c47![Screenshot (581)](https://github.com/user-attachments/assets/a4a79dc0-4476-40fa-aedb-61e73759f111)
+
 d-1803-4077-ac79-6bdfb5fc9846)![Screenshot (582)](https://github.com/user-attachments/assets/3f2483c1-4008-44c1-8547-55f5eff7ac4a)
+
 Screenshot (584).png…]()![Screenshot (580)](https://github.com/user-attachments/assets/e1bb70cf-5953-44aa-9377-9e55fd3b24a0)
+
 ![Screenshot (579)](https://github.com/user-attachments/assets/ca9aa9a8-48f3-423c-a139-5b752b2c2f4f)
