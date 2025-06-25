@@ -129,14 +129,10 @@ JWT_SECRET=sekretishumefshehur
 ---
 
 ## 🧭 Screenshots dhe Demo
-![Uploading ![Screenshot (579)](https://github.com/user-attachments/assets![![Screenshot (584)](https://github.com/user-attachments/assets/f78edafd-1d88-4f48-abb1-df18270f80e7)
 
-Screenshot (583)](https://github.com/user-attachments/assets/756f6836-7022-4699-ad99-f8de840755bc)
-
-/5f16c47![Screenshot (581)](https://github.com/user-attachments/assets/a4a79dc0-4476-40fa-aedb-61e73759f111)
-
-d-1803-4077-ac79-6bdfb5fc9846)![Screenshot (582)](https://github.com/user-attachments/assets/3f2483c1-4008-44c1-8547-55f5eff7ac4a)
-
-Screenshot (584).png…]()![Screenshot (580)](https://github.com/user-attachments/assets/e1bb70cf-5953-44aa-9377-9e55fd3b24a0)
-
-![Screenshot (579)](https://github.com/user-attachments/assets/ca9aa9a8-48f3-423c-a139-5b752b2c2f4f)
+![Screenshot (579)](https://github.com/user-attachments/assets/f5f025d5-ac3c-47cd-8bdc-df2a9e3de4c2)
+![Screenshot (580)](https://github.com/user-attachments/assets/e8457fce-7de6-445d-bd25-49681fb3746b)
+![Screenshot (581)](https://github.com/user-attachments/assets/04e94083-07a0-4e3a-bb81-160251ef77de)
+![Screenshot (582)](https://github.com/user-attachments/assets/dc05d016-e7f0-4c0c-86e1-06235182ebcc)
+![Screenshot (583)](https://github.com/user-attachments/assets/49996cef-a7c3-42af-b26e-7378e866c5ee)
+![Screenshot (584)](https://github.com/user-attachments/assets/11f42a19-b026-4cf4-b756-ac369433db49)
