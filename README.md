@@ -27,6 +27,7 @@ Sistem modern për menaxhimin e detyrave dhe kohës, ndërtuar mbi arkitekturë 
 | Frontend       | 3000   | Dashboard për përdoruesin            |
 
 ---
+![Screenshot (574)](https://github.com/user-attachments/assets/5fa719b7-a537-4bc5-b282-5bfd8de074e0)
 
 ## ▶️ Nisja Lokale me Docker
 
@@ -139,3 +140,4 @@ JWT_SECRET=sekretishumefshehur
 ![Screenshot (575)](https://github.com/user-attachments/assets/c0eddae9-7e08-47d0-9b06-916a9cc4dbc1)
 ![Screenshot (576)](https://github.com/user-attachments/assets/72ddfca5-e77c-442e-bd24-7d5a900c4ee0)
 ![Screenshot (577)](https://github.com/user-attachments/assets/ddc6413b-2189-4258-8d86-ee0cec35433f)
+![Uploading Screenshot (574).png…]()
