@@ -141,3 +141,8 @@ JWT_SECRET=sekretishumefshehur
 ![Screenshot (576)](https://github.com/user-attachments/assets/72ddfca5-e77c-442e-bd24-7d5a900c4ee0)
 ![Screenshot (577)](https://github.com/user-attachments/assets/ddc6413b-2189-4258-8d86-ee0cec35433f)
 ![Screenshot (574)](https://github.com/user-attachments/assets/31ee8e68-b367-469b-8d7e-27cac834260a)
+![Screenshot (599)](https://github.com/user-attachments/assets/e47ff991-6fda-456d-9dba-130181ae8265)
+![Screenshot (598)](https://github.com/user-attachments/assets/b2cc97bf-04fd-4fe5-9f25-d26f55151f65)
+![Screens![Scre![Screenshot (595)](https://github.com/user-attachments/assets/045cddee-6fba-48cf-99ec-ed910e253d34)
+enshot (596)](https://github.com/user-attachments/assets/84e88c44-26e3-4ed9-beae-39e6ed330dda)
+hot (597)](https://github.com/user-attachments/assets/1cf1e024-bb35-432b-9549-4b1d1d34b5f1)
