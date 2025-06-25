@@ -18,8 +18,7 @@ Sistem modern për menaxhimin e detyrave dhe kohës, ndërtuar mbi arkitekturë 
 
 ## 📁 Struktura e Mikroshërbimeve
 
-| Shërbimi       | Porti | Përgjegjës për                    ![Screenshot (594)](https://github.com/user-attachments/assets/7123d2d4-cd4e-43af-a77e-814ba7f04a92)
-    |
+| Shërbimi       | Porti | Përgjegjës për                    
 |----------------|--------|--------------------------------------|
 | Auth Service   | 5000   | Regjistrim, login, JWT               |
 | Task Service   | 5001   | CRUD për detyra                      |
@@ -27,13 +26,6 @@ Sistem modern për menaxhimin e detyrave dhe kohës, ndërtuar mbi arkitekturë 
 | Project Service| 5003   | Menaxhimi i projekteve               |
 | Frontend       | 3000   | Dashboard për përdoruesin            |
 
----![Screenshot (596)](https://github.com/user-attachments/assets/0ec9fc37-9491-4656-9810-45e25b67f62a)
-![Screenshot (586)](https://github.com/user-attachments/assets/d30ac940-bfc5-4b1e-84e2-49600cbca099)
-![Screenshot (585)](https://github.com/user-attachments/assets/3bfa3da4-6837-4c4a-a680-fcbb4f43b27d)
-![Screenshot (587)](https://github.com/user-attachments/assets/dff7e5d8-0d85-43d7-8de7-d0c229560ad4)
-
-![Scree![Screenshot (597)](https://github.com/user-attachments/assets/13c9310b-d250-43eb-82fa-cb810469c194)
-nshot (574)](https://github.com/user-attachments/assets/5fa719b7-a537-4bc5-b282-5bfd8de074e0)
 
 ## ▶️ Nisja Lokale me Docker
 
@@ -161,3 +153,10 @@ hot (597)](https://github.com/user-attachments/assets/1cf1e024-bb35-432b-9549-4b
 cedf9a2![Screenshot (587)](https://github.com/user-attachments/assets/99255994-141a-4e3b-a57e-f927443fbb8b)
 )
 ![Screenshot (588)](https://github.com/user-attachments/assets/d64cd482-6b37-4e93-a5a9-6f5edad9cd5e)
+---![Screenshot (596)](https://github.com/user-attachments/assets/0ec9fc37-9491-4656-9810-45e25b67f62a)
+![Screenshot (586)](https://github.com/user-attachments/assets/d30ac940-bfc5-4b1e-84e2-49600cbca099)
+![Screenshot (585)](https://github.com/user-attachments/assets/3bfa3da4-6837-4c4a-a680-fcbb4f43b27d)
+![Screenshot (587)](https://github.com/user-attachments/assets/dff7e5d8-0d85-43d7-8de7-d0c229560ad4)
+
+![Scree![Screenshot (597)](https://github.com/user-attachments/assets/13c9310b-d250-43eb-82fa-cb810469c194)
+nshot (574)](https://github.com/user-attachments/assets/5fa719b7-a537-4bc5-b282-5bfd8de074e0)
