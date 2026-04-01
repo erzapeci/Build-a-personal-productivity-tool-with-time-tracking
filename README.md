@@ -149,14 +149,13 @@ hot (597)](https://github.com/user-attachments/assets/1cf1e024-bb35-432b-9549-4b
 ![Screenshot (592)](https://github.com/user-attachments/assets/229bcba5-1a9b-4657-8456-5187413315dd)![Screenshot (591)](https://github.com/user-attachments/assets/aa3735b3-ff3b-4f99-adf4-28acddf2b659)
 
 ![Screenshot (590)](https://github.com/user-attachments/assets/e7ceb772-9125-4b46-8cf1-e6ca3f926293)
-![Screenshot (589)](https://github.com/user-attachments/assets/cae4607e-d8aa-4f31-8812-dfcf5!![Screenshot (585)](https://github.com/user-attachments/assets/e65a432b-c986-485a-9c09-1fbae7a4b47e)
+
 [Screenshot (586)](https://github.com/user-attachments/assets/f6fe9e7e-a918-4ab9-a256-4e8c79a5d94f)
 cedf9a2![Screenshot (587)](https://github.com/user-attachments/assets/99255994-141a-4e3b-a57e-f927443fbb8b)
-)
 ![Screenshot (588)](https://github.com/user-attachments/assets/d64cd482-6b37-4e93-a5a9-6f5edad9cd5e)
 ---![Screenshot (596)](https://github.com/user-attachments/assets/0ec9fc37-9491-4656-9810-45e25b67f62a)
 ![Screenshot (586)](https://github.com/user-attachments/assets/d30ac940-bfc5-4b1e-84e2-49600cbca099)
 ![Screenshot (585)](https://github.com/user-attachments/assets/3bfa3da4-6837-4c4a-a680-fcbb4f43b27d)
 ![Screenshot (587)](https://github.com/user-attachments/assets/dff7e5d8-0d85-43d7-8de7-d0c229560ad4)
 
-https://drive.google.com/drive/mobile/my-drive
+https://docs.google.com/videos/d/1yvWv0NImgTJoKtozoHUOysvdtLSTKv3f8ScV3KPHBDE/edit?scene=id.p#scene=id.p
